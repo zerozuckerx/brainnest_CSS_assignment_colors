@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+}
+
+h2 {
+	color: #ff5544;
+}
+
+h3 {
+	color: rgb(255,55,100, 0.9);
+}
+
+h4 {
+	color: hsl(60,70%,50%)
+}
+
+.headings {
+	background-color: hsl(61, 58%, 90%);
+}
